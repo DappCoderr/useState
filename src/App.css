@@ -1,12 +1,12 @@
 .box{
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 300px;
   margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 250px;
-  margin-bottom: 250px;
+  margin-top: 200px;
+  margin-bottom: 200px;
   background-color: cornflowerblue;
   color: white;
   font-weight: bolder;
